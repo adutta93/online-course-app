@@ -1,0 +1,121 @@
+[{
+  "id": 1,
+  "course": "Anstice Roon",
+  "subject": "Training",
+  "Instructor": "Annice Brizell",
+  "price": "INR 2999"
+}, {
+  "id": 2,
+  "course": "Clemmy Perrie",
+  "subject": "Product Management",
+  "Instructor": "Iago Parkhouse",
+  "price": "INR 3999"
+}, {
+  "id": 3,
+  "course": "Curran Betke",
+  "subject": "Accounting",
+  "Instructor": "Dalt Guittet",
+  "price": "INR 2999"
+}, {
+  "id": 4,
+  "course": "Faith Bultitude",
+  "subject": "Training",
+  "Instructor": "Joletta Bass",
+  "price": "INR 3999"
+}, {
+  "id": 5,
+  "course": "Lennard Butters",
+  "subject": "Engineering",
+  "Instructor": "Mariya Bohlje",
+  "price": "INR 8300"
+}, {
+  "id": 6,
+  "course": "Crichton De Francesco",
+  "subject": "Sales",
+  "Instructor": "Basilius Cunniff",
+  "price": "INR 5400"
+}, {
+  "id": 7,
+  "course": "Murial Innwood",
+  "subject": "Sales",
+  "Instructor": "Norean Terzi",
+  "price": "INR 8300"
+}, {
+  "id": 8,
+  "course": "Katlin Wivell",
+  "subject": "Support",
+  "Instructor": "Daniela Stening",
+  "price": "INR 5400"
+}, {
+  "id": 9,
+  "course": "Alexandre Harmond",
+  "subject": "Business Development",
+  "Instructor": "Artus MacAlpin",
+  "price": "INR 8300"
+}, {
+  "id": 10,
+  "course": "Cissy Caddick",
+  "subject": "Research and Development",
+  "Instructor": "Raymund Khomin",
+  "price": "INR 5400"
+}, {
+  "id": 11,
+  "course": "Harper Lorentzen",
+  "subject": "Support",
+  "Instructor": "Kenny Dunster",
+  "price": "INR 6000"
+}, {
+  "id": 12,
+  "course": "Arte Rumble",
+  "subject": "Engineering",
+  "Instructor": "Velvet Eastlake",
+  "price": "INR 4200"
+}, {
+  "id": 13,
+  "course": "Hyacinthie Mellor",
+  "subject": "Legal",
+  "Instructor": "Nerti Baccas",
+  "price": "INR 6000"
+}, {
+  "id": 14,
+  "course": "Henryetta Basterfield",
+  "subject": "Marketing",
+  "Instructor": "Jobie Golledge",
+  "price": "INR 4200"
+}, {
+  "id": 15,
+  "course": "Bobby Isack",
+  "subject": "Sales",
+  "Instructor": "Susana Kerrigan",
+  "price": "INR 6700"
+}, {
+  "id": 16,
+  "course": "Jere Niemetz",
+  "subject": "Training",
+  "Instructor": "Nicholas Hitscher",
+  "price": "INR 6700"
+}, {
+  "id": 17,
+  "course": "Nerte O'Hern",
+  "subject": "Research and Development",
+  "Instructor": "Krystalle Broske",
+  "price": "INR 7500"
+}, {
+  "id": 18,
+  "course": "Pincus Boumphrey",
+  "subject": "Business Development",
+  "Instructor": "Joli Andrusyak",
+  "price": "INR 5000"
+}, {
+  "id": 19,
+  "course": "Haily Wozencroft",
+  "subject": "Product Management",
+  "Instructor": "Sherlocke Bizley",
+  "price": "INR 7500"
+}, {
+  "id": 20,
+  "course": "Terrye Leonards",
+  "subject": "Sales",
+  "Instructor": "Banky Mattheus",
+  "price": "INR 5000"
+}]
